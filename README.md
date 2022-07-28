@@ -16,9 +16,9 @@ I'm a teacher of philosophy and an advanced student of geology :woman_scientist:
 
 ###### My hobby is hikking:, listening to music, etc.
 
-|  Html   |   Js   |   Vue   |  Boostrap  |  Vuetify   |  Python   |   PostgreSQL  |
-|---------|--------|---------|------------|------------|-----------|---------------|
-|   xxx   |    x   |    x    |    xxx     |     xx     |     xx    |      x        |
+                |  Html   |   Js   |   Vue   |  Boostrap  |  Vuetify   |  Python   |   PostgreSQL  |
+                |---------|--------|---------|------------|------------|-----------|---------------|
+                |   xxx   |    x   |    x    |    xxx     |     xx     |     xx    |      x        |
 
 
 
