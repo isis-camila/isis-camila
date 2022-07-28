@@ -1,17 +1,25 @@
-#print(Hello :earth_americas: !) ### My name is Camila👋; but i prefere to be called Isis. 
-I like cooking 
+# print(Hello :earth_americas: !) 👋👋👋
+### My name is *Isis*.
+##### Currently, I am studying :woman_student: a course on Python. In this course, I have learned :woman_technologist:
+* Html
+* Boostrap
+* Python
+* PostgreSQL
 
-<!--
-**isis-camila/isis-camila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### In addition, I took a Front end course in Digital Talent, where I learned:
+* Html
+* Js
+* Vue
+* Boostrap, Vuetify
 
-Here are some ideas to get you started:
+I'm a teacher of philosophy and an advanced student of geology :woman_scientist:. I love volcanoes :volcano: , pedology, igneous petrology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###### My hobby is hikking:, listening to music, etc.
+
+|  Html   |   Js   |   Vue   |  Boostrap  |  Vuetify   |  Python   |   PostgreSQL  |
+|---------|--------|---------|------------|------------|-----------|---------------|
+|   xxx   |    x   |    x    |    xxx     |     xx     |     xx    |      x        |
+
+
+
+### In the near future I would like to learn data analysis and relate it to python
