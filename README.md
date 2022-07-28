@@ -1,4 +1,5 @@
-### Hi there 👋
+#print(Hello :earth_americas: !) ### My name is Camila👋; but i prefere to be called Isis. 
+I like cooking 
 
 <!--
 **isis-camila/isis-camila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
